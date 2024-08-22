@@ -85,7 +85,7 @@ while True:
                     if A != "Cancel Transaction":
                         print("Dispensing item C. your change is : ", s - 5)
 #PROGRAM 2
-#ATM SIMPLE MACHINE
+#SIMPLE ATM MACHINE
 balance=500
 print("TYPE 1 TO CHECK BALANCE \nTYPE 2 TO WITHDRAW MONEY \nTYPE 3 TO DEPOSIT MONEY \nTYPE 4 TO EXIT ")
 while True:
